@@ -14,4 +14,11 @@
             </div>
         </div>
     </div>
+    <div class="row ">
+        <div class="col-sm-12">
+            <a href="/vancation" class="btn btn-danger">
+                <i class="fa-solid fa-angles-left"></i> Voltar
+            </a>
+        </div>
+    </div>
 </x-app-layout>
